@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/pawan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/pawan/Documents/AllProjects/Android/SimpleExoPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_88c95d7602231748c9ce5a0a14c40eb429bc4f6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/pawan/Documents/AllProjects/Android/SimpleExoPlayer/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="21a6e94e05f9ed766dea7d866d96b6c909354a03">
+        <dex dex="/home/pawan/Documents/AllProjects/Android/SimpleExoPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fc840277ab2bcb6875995353121e0eb81fe2423e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/pawan/Documents/AllProjects/Android/SimpleExoPlayer/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/r2.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="374ac1b3d9f5a3418b8d219c5f9569d8f76302d7">
+        <dex dex="/home/pawan/Documents/AllProjects/Android/SimpleExoPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.exoplayer-exoplayer-r2.1.0_82fe46ef933033e6d9a41148294edf6f3d20ca99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/pawan/Documents/AllProjects/Android/SimpleExoPlayer/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c6b295c4aabed3d943ed9cb51794962f09e6fe70">
+        <dex dex="/home/pawan/Documents/AllProjects/Android/SimpleExoPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f1d231f5ee7657afed116cb5b2e869cd154f29b1/classes.dex" />
+    </item>
+
+</items>
